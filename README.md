@@ -1,2 +1,2 @@
 # QuizAppKotlin
-Normal Quiz Android app using kotlin language
+Normal Quiz Android app using kotlin languages
